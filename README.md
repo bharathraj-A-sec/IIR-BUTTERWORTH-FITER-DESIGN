@@ -1,6 +1,6 @@
 # EXP 3 : IIR-BUTTERWORTH-FITER-DESIGN
 
-## AIM: 
+## AIM:  
 
  To design an IIR Butterworth filter  using SCILAB. 
 
